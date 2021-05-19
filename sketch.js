@@ -107,7 +107,7 @@ function draw() {
    if(gameState!="Hungry"){
      feed.hide()
      addFood.hide()
-     dog.remove()
+     
      mom.visible = false
      papa.visible = false
      boy.visible = false
